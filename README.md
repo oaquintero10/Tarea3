@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
@@ -179,6 +180,8 @@ console.log(data)
 });
 
 </script>
+
+
 
 ```markdown
 Syntax highlighted code block
